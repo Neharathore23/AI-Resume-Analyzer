@@ -1,0 +1,36 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment & Secrets
+.env
+.venv/
+env/
+venv/
+ENV/
+.streamlit/secrets.toml
+
+# Generated reports
+reports/*
+!reports/.gitkeep
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Redundant duplicate extraction folder
+ai_resume_analyzer/
+
+# Cache & Logs
+*.tmp
+*.log
+.pytest_cache/

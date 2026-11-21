@@ -1,0 +1,9 @@
+role,required_skills,description
+Data Analyst,Python|SQL|Excel|Pandas|Power BI|Statistics|Data Visualization|Data Cleaning,Analyse business data build dashboards and reports using SQL Excel and Power BI
+Machine Learning Engineer,Python|Machine Learning|scikit-learn|FastAPI|Docker|MLflow|Model Deployment|Git,Build train and deploy machine learning models as production services
+AI Engineer,Python|Deep Learning|LLM|RAG|REST API|LangChain|Vector Database|Prompt Engineering,Build AI applications using large language models retrieval augmented generation and APIs
+NLP Engineer,Python|NLP|Transformers|Hugging Face|spaCy|PyTorch|Deep Learning,Build text processing and language understanding systems using transformers
+Computer Vision Engineer,Python|OpenCV|CNN|YOLO|PyTorch|Deep Learning|Image Processing,Build image and video understanding systems using convolutional neural networks
+Data Scientist,Python|Statistics|Machine Learning|Pandas|scikit-learn|SQL|Data Visualization|Feature Engineering,Explore data build predictive models and communicate insights
+Python Developer,Python|OOP|REST API|Flask|Git|SQL|Unit Testing|Docker,Develop backend services and tools in Python
+Junior ML Engineer,Python|Machine Learning|Pandas|scikit-learn|SQL|Git|Streamlit,Support model development data preparation and simple ML applications

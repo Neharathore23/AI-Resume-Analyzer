@@ -1,0 +1,75 @@
+skill,category,aliases
+Python,Programming,python|python3
+Java,Programming,java
+C++,Programming,c++|cpp
+C#,Programming,c#
+.NET,Software Engineering,.net|dotnet|asp.net|dot net|c# .net
+JavaScript,Programming,javascript|js|node.js|nodejs
+TypeScript,Programming,typescript|ts
+SQL,Databases,sql|t-sql|pl/sql
+MySQL,Databases,mysql
+PostgreSQL,Databases,postgresql|postgres
+MongoDB,Databases,mongodb|mongo
+SQLite,Databases,sqlite
+Excel,Tools,excel|ms excel|advanced excel
+Power BI,Tools,power bi|powerbi
+Tableau,Tools,tableau
+Git,Tools,git
+GitHub,Tools,github
+Jupyter,Tools,jupyter|jupyter notebook
+Linux,Tools,linux|ubuntu|bash
+Pandas,Data Science,pandas
+NumPy,Data Science,numpy
+Statistics,Data Science,statistics|statistical analysis|hypothesis testing
+Data Cleaning,Data Science,data cleaning|data preprocessing|data wrangling
+Feature Engineering,Data Science,feature engineering
+Data Visualization,Data Science,data visualization|data visualisation
+Time Series,Data Science,time series|forecasting
+Matplotlib,Visualization,matplotlib
+Plotly,Visualization,plotly
+Seaborn,Visualization,seaborn
+Machine Learning,ML,machine learning|ml
+scikit-learn,ML,scikit-learn|sklearn|scikit learn
+Deep Learning,ML,deep learning
+TensorFlow,ML,tensorflow
+Keras,ML,keras
+PyTorch,ML,pytorch|torch
+XGBoost,ML,xgboost
+MLflow,MLOps,mlflow
+Model Deployment,MLOps,model deployment|deploying models|deployed ml
+NLP,NLP,nlp|natural language processing
+spaCy,NLP,spacy
+NLTK,NLP,nltk
+Transformers,NLP,transformers|bert|gpt
+Hugging Face,NLP,hugging face|huggingface
+Sentence Transformers,NLP,sentence transformers|sentence-transformers|sbert
+LLM,GenAI,llm|llms|large language model|large language models
+RAG,GenAI,rag|retrieval augmented generation|retrieval-augmented generation
+Prompt Engineering,GenAI,prompt engineering
+LangChain,GenAI,langchain
+Vector Database,GenAI,vector database|faiss|chromadb|pinecone
+Computer Vision,Computer Vision,computer vision
+OpenCV,Computer Vision,opencv|cv2
+CNN,Computer Vision,cnn|convolutional neural network|convolutional neural networks
+YOLO,Computer Vision,yolo|yolov5|yolov8
+Image Processing,Computer Vision,image processing
+FastAPI,Backend,fastapi
+Flask,Backend,flask
+Django,Backend,django
+REST API,Backend,rest api|rest apis|restful|apis|api development
+Streamlit,Backend,streamlit
+OOP,Software Engineering,oop|object oriented|object-oriented
+Unit Testing,Software Engineering,unit testing|pytest|unittest
+Agile,Software Engineering,agile|scrum
+Docker,Cloud & DevOps,docker|containerization
+Kubernetes,Cloud & DevOps,kubernetes|k8s
+CI/CD,Cloud & DevOps,ci/cd|github actions|jenkins
+AWS,Cloud & DevOps,aws|amazon web services|sagemaker|ec2
+Azure,Cloud & DevOps,azure
+GCP,Cloud & DevOps,gcp|google cloud
+Cloud Deployment,Cloud & DevOps,cloud deployment|deployed on cloud|render|heroku|streamlit cloud
+Spark,Big Data,spark|pyspark
+Airflow,Big Data,airflow
+ETL,Big Data,etl|data pipeline|data pipelines
+HTML,Web,html|html5
+CSS,Web,css|css3

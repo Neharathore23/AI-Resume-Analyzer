@@ -1,0 +1,9 @@
+test_resume,expected_top_role,actual_top_role,comments
+resume_A_data_analyst.docx,Data Analyst,Data Analyst,12 skills; score 80.7; PASS
+resume_A_data_analyst.pdf,Data Analyst,Data Analyst,12 skills; score 80.7; PASS
+resume_B_ml_engineer.docx,Machine Learning Engineer,Machine Learning Engineer,14 skills; score 77.8; PASS
+resume_B_ml_engineer.pdf,Machine Learning Engineer,Machine Learning Engineer,14 skills; score 77.8; PASS
+resume_C_nlp_engineer.docx,NLP Engineer,NLP Engineer,11 skills; score 78.0; PASS
+resume_C_nlp_engineer.pdf,NLP Engineer,NLP Engineer,11 skills; score 78.0; PASS
+resume_D_fullstack_engineer.docx,Python Developer,Python Developer,13 skills; score 75.8; PASS
+resume_D_fullstack_engineer.pdf,Python Developer,Python Developer,13 skills; score 75.8; PASS

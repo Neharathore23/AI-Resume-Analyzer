@@ -1,0 +1,45 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 915 >>
+stream
+BT /F1 11 Tf 50 740 Td 15 TL
+(Alex Taylor - Data Analyst) '
+(Contact: candidate.a@example.com | +91 98765 43210 | Bangalore, India) '
+(LinkedIn: linkedin.com/in/alextaylor-data | GitHub: github.com/alextaylor) '
+(Education: B.Sc. Statistics & Mathematics, 2024) '
+(Core Skills: Python, SQL, Excel, Pandas, Power BI, Tableau, Data Visualization, Data Cleaning, Statistics, MySQL.) '
+(Professional Experience: Data Analyst Intern at InsightCorp \(6 months\).) '
+(  - Extracted and cleaned multi-source business data using SQL and Pandas.) '
+(  - Built interactive executive sales dashboards in Power BI and Excel.) '
+(  - Conducted statistical hypothesis testing to evaluate marketing campaign performance.) '
+(Projects:) '
+(  - Retail Analytics Dashboard: Built automated SQL queries and Power BI dashboard.) '
+(  - Customer Churn Analysis: Data cleaning, exploratory data analysis using Pandas and Matplotlib.) '
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001207 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1277
+%%EOF
